@@ -14,3 +14,5 @@ Imports:
     magrittr,
     dplyr,
     tidyr
+Suggests: 
+    testthat
