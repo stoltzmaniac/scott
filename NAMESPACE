@@ -2,4 +2,5 @@
 
 export("%>%")
 export(add_1)
+export(complicated)
 importFrom(magrittr,"%>%")
